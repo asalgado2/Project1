@@ -1,4 +1,4 @@
-package b_Money;
+package b_Money; //Checked the b_Money package. It looks fine. aktunc-STMU
 
 import org.junit.Before;
 import org.junit.Test;
